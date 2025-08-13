@@ -24,7 +24,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		CD8A82472E4CF561009B3EB1 /* sada-fresh-2.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "sada-fresh-2.xcodeproj"; sourceTree = "<group>"; };
 		CDC40E382E4C987600FC19FD /* sada-fresh-2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "sada-fresh-2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDC40E482E4C987A00FC19FD /* sada-fresh-2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "sada-fresh-2Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDC40E522E4C987A00FC19FD /* sada-fresh-2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "sada-fresh-2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -73,13 +72,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		CD8A82482E4CF561009B3EB1 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
 		CDC40E2F2E4C987600FC19FD = {
 			isa = PBXGroup;
 			children = (
@@ -206,12 +198,6 @@
 			preferredProjectObjectVersion = 77;
 			productRefGroup = CDC40E392E4C987600FC19FD /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = CD8A82482E4CF561009B3EB1 /* Products */;
-					ProjectRef = CD8A82472E4CF561009B3EB1 /* sada-fresh-2.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
 				CDC40E372E4C987600FC19FD /* sada-fresh-2 */,
